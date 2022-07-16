@@ -1,4 +1,4 @@
 let obj = {
-  a: '我是daily 1752 master ',
+  a: '我是daily 1754 master ',
 
 };
